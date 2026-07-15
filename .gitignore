@@ -28,3 +28,10 @@ venv.bak/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# App data and notes
+App/*.csv
+App/PROBLEM STATEMENT.txt
+App/Roles.txt
+App/TEAM NOTES.txt
+App/Team_members_number.txt
